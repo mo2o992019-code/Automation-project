@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="MyScenarioSuite">
+    <listeners>
+        <listener class-name="utility.ExtentReportListener" />
+    </listeners>
+    <test name="ThreeScenariosTest">
+        <classes>
+            <class name="testRunner.AllTests" />
+        </classes>
+    </test>
+</suite>
