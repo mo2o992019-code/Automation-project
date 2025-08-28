@@ -6,7 +6,7 @@
 
 Clone the repo:
 
-sh
+
 https://github.com/mo2o992019-code/Automation-project.git
 
 
