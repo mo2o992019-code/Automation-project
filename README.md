@@ -1,5 +1,5 @@
 # Amazon Website Test Automation
-> This is a test automation task on [Amazon Websitel ](https://www.amazon.eg/?language=en_AE) website (The test covers logging in, Add product to cart ,check the quantity and price of product in cart page  )
+> This is a test automation task on [Amazon Website ](https://www.amazon.eg/?language=en_AE) website (The test covers logging in, Add product to cart ,check the quantity and price of product in cart page  )
 
 
 ## Installation
