@@ -16,7 +16,7 @@ public class AllTests {
     private SignInPage signInPage;
     private Browsers browsers;
     private ListScreen listScreen;
-    private TodayDealsPage todayDealsPage;nmmnnnnnnnnnnnnnn
+    private TodayDealsPage todayDealsPage;
     private ProductPage productPage;
 @BeforeMethod
 public void setup(){
